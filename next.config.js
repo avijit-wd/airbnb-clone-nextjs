@@ -4,7 +4,12 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ["1000logos.net", "encrypted-tbn0.gstatic.com"],
+    domains: [
+      "1000logos.net",
+      "encrypted-tbn0.gstatic.com",
+      "avatars.githubusercontent.com",
+      "lh3.googleusercontent.com",
+    ],
   },
 };
 
